@@ -25,6 +25,7 @@
 
 ## Day 5
 | Problem Name | Difficulty | Status     |
+|--------------|------------| ------------|
 | [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1) | Medium | ✅ Completed |
 | [3Sum](https://leetcode.com/problems/3sum/description/) | Medium | ✅ Completed | 
 | [4Sum](https://leetcode.com/problems/4sum/description/) | Medium | ✅ Completed |
