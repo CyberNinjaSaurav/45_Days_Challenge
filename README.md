@@ -21,5 +21,5 @@
 |--------------|------------|------------|
 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | Medium  |  ✅ Completed |
 | [ Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | Medium | ✅ Completed |
-| [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/ | Medium | ✅ Completed |
+| [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | Medium | ✅ Completed |
 
